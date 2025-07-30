@@ -28241,8 +28241,8 @@ if(a0==null)a0=0
 a1=k
 if(a1!=null)A.a9X(a1.gEg())
 return new A.pP(a3,g,d,r,p,n,a0)}catch(a2){h=A.a0(a2)
-A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0430\u0440\u0441\u0438\u043d\u0433\u0430 \u043f\u0440\u0435\u0441\u0435\u0442\u0430 "+a3+": "+A.h(h))
-g=A.bC("\u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0430\u0440\u0441\u0438\u043d\u0433\u0430 \u043f\u0440\u0435\u0441\u0435\u0442\u0430: "+A.h(h))
+A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0430\u0440\u0441\u0438\u043d\u0433\u0430 \u0448\u0430\u0431\u043b\u043e\u043d\u0430 "+a3+": "+A.h(h))
+g=A.bC("\u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0430\u0440\u0441\u0438\u043d\u0433\u0430 \u0448\u0430\u0431\u043b\u043e\u043d\u0430: "+A.h(h))
 throw A.e(g)}},
 aZB(a){var s,r,q,p=t.kc.a(a.h(0,"pixels"))
 if(p==null)p=[]
@@ -102805,22 +102805,22 @@ var $async$t1=A.I(function(a,b){if(a===1){o.push(b)
 s=p}while(true)switch(s){case 0:if(n.cx){s=1
 break}n.ah(new A.acg(n))
 p=4
-A.U("\ud83d\udcc2 \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c \u043f\u0440\u0435\u0441\u0435\u0442\u044b...")
+A.U("\ud83d\udcc2 \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c \u0448\u0430\u0431\u043b\u043e\u043d\u044b...")
 s=7
 return A.D(n.ch.Ea(40),$async$t1)
 case 7:m=b
 n.ah(new A.ach(n,m))
-A.U("\u2705 \u0417\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043e \u043f\u0440\u0435\u0441\u0435\u0442\u043e\u0432: "+J.bB(m))
+A.U("\u2705 \u0417\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043e \u0448\u0430\u0431\u043b\u043e\u043d\u043e\u0432: "+J.bB(m))
 p=2
 s=6
 break
 case 4:p=3
 i=o.pop()
 l=A.a0(i)
-A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u043f\u0440\u0435\u0441\u0435\u0442\u043e\u0432: "+A.h(l))
+A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0448\u0430\u0431\u043b\u043e\u043d\u043e\u0432: "+A.h(l))
 n.ah(new A.aci(n))
 j=n.c
-if(j!=null)j.ak(t.q).f.e0(A.ex(null,null,null,B.ci,null,B.a6,null,A.al("\u041e\u0448\u0438\u0431\u043a\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u043f\u0440\u0435\u0441\u0435\u0442\u043e\u0432: "+J.b6(l),null,null,null,null,null,null),null,B.bb,null,null,null,null,null,null,null,null,null))
+if(j!=null)j.ak(t.q).f.e0(A.ex(null,null,null,B.ci,null,B.a6,null,A.al("\u041e\u0448\u0438\u0431\u043a\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0448\u0430\u0431\u043b\u043e\u043d\u043e\u0432: "+J.b6(l),null,null,null,null,null,null),null,B.bb,null,null,null,null,null,null,null,null,null))
 s=6
 break
 case 3:s=2
@@ -102833,23 +102833,23 @@ aaY(a){var s=0,r=A.H(t.H),q=1,p=[],o=this,n,m,l,k,j
 var $async$Aj=A.I(function(b,c){if(b===1){p.push(c)
 s=q}while(true)switch(s){case 0:q=3
 m=a.b
-A.U("\ud83c\udfa8 \u041f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c \u043f\u0440\u0435\u0441\u0435\u0442: "+m)
+A.U("\ud83c\udfa8 \u041f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c \u0448\u0430\u0431\u043b\u043e\u043d: "+m)
 l=o.r.gV()
 if(l!=null)l.aye(a)
 s=6
 return A.D(o.ch.DU(a.a),$async$Aj)
 case 6:l=o.c
-if(l!=null)l.ak(t.q).f.e0(A.ex(null,null,null,B.c6,null,B.a6,null,A.al('\u041f\u0440\u0435\u0441\u0435\u0442 "'+m+'" \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d',null,null,null,null,null,null),null,A.cY(0,0,0,2),null,null,null,null,null,null,null,null,null))
-A.U("\u2705 \u041f\u0440\u0435\u0441\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d \u0443\u0441\u043f\u0435\u0448\u043d\u043e")
+if(l!=null)l.ak(t.q).f.e0(A.ex(null,null,null,B.c6,null,B.a6,null,A.al('\u0428\u0430\u0431\u043b\u043e\u043d "'+m+'" \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d',null,null,null,null,null,null),null,A.cY(0,0,0,2),null,null,null,null,null,null,null,null,null))
+A.U("\u2705 \u0428\u0430\u0431\u043b\u043e\u043d \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d \u0443\u0441\u043f\u0435\u0448\u043d\u043e")
 q=1
 s=5
 break
 case 3:q=2
 j=p.pop()
 n=A.a0(j)
-A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u043f\u0440\u0435\u0441\u0435\u0442\u0430: "+A.h(n))
+A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0448\u0430\u0431\u043b\u043e\u043d\u0430: "+A.h(n))
 m=o.c
-if(m!=null)m.ak(t.q).f.e0(A.ex(null,null,null,B.b8,null,B.a6,null,A.al("\u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u043f\u0440\u0435\u0441\u0435\u0442\u0430: "+J.b6(n),null,null,null,null,null,null),null,B.bb,null,null,null,null,null,null,null,null,null))
+if(m!=null)m.ak(t.q).f.e0(A.ex(null,null,null,B.b8,null,B.a6,null,A.al("\u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0448\u0430\u0431\u043b\u043e\u043d\u0430: "+J.b6(n),null,null,null,null,null,null),null,B.bb,null,null,null,null,null,null,null,null,null))
 s=5
 break
 case 2:s=1
@@ -102865,7 +102865,7 @@ e=n.r
 d=e.gV()
 c=d==null?null:d.rg()
 if(c==null)c=0
-if(c===0){n.c.ak(t.q).f.e0(A.ex(null,null,null,B.ci,null,B.a6,null,A.al("\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0434\u0438\u0437\u0430\u0439\u043d \u044d\u043c\u0431\u043b\u0435\u043c\u044b \u043f\u0435\u0440\u0435\u0434 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435\u043c \u043f\u0440\u0435\u0441\u0435\u0442\u0430",null,null,null,null,null,null),null,B.bb,null,null,null,null,null,null,null,null,null))
+if(c===0){n.c.ak(t.q).f.e0(A.ex(null,null,null,B.ci,null,B.a6,null,A.al("\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0434\u0438\u0437\u0430\u0439\u043d \u044d\u043c\u0431\u043b\u0435\u043c\u044b \u043f\u0435\u0440\u0435\u0434 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435\u043c \u0448\u0430\u0431\u043b\u043e\u043d\u0430",null,null,null,null,null,null),null,B.bb,null,null,null,null,null,null,null,null,null))
 s=1
 break}f.a=f.b=""
 d=n.c
@@ -102894,8 +102894,8 @@ if(e!=null)A.dz(e,!1).e9()
 s=11
 return A.D(n.t1(),$async$tf)
 case 11:e=n.c
-if(e!=null)e.ak(t.q).f.e0(A.ex(new A.HX("\u041e\u0431\u043d\u043e\u0432\u0438\u0442\u044c",n.gIn(),null),null,null,B.c6,null,B.a6,null,A.al('\u041f\u0440\u0435\u0441\u0435\u0442 "'+f.b+'" \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d!',null,null,null,null,null,null),null,B.bb,null,null,null,null,null,null,null,null,null))
-A.U("\u2705 \u041f\u0440\u0435\u0441\u0435\u0442 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d \u0441 ID: "+A.h(l))
+if(e!=null)e.ak(t.q).f.e0(A.ex(new A.HX("\u041e\u0431\u043d\u043e\u0432\u0438\u0442\u044c",n.gIn(),null),null,null,B.c6,null,B.a6,null,A.al('\u0428\u0430\u0431\u043b\u043e\u043d "'+f.b+'" \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d!',null,null,null,null,null,null),null,B.bb,null,null,null,null,null,null,null,null,null))
+A.U("\u2705 \u0428\u0430\u0431\u043b\u043e\u043d \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d \u0441 ID: "+A.h(l))
 p=2
 s=9
 break
@@ -102904,9 +102904,9 @@ b=o.pop()
 k=A.a0(b)
 f=n.c
 if(f!=null)A.dz(f,!1).e9()
-A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u043f\u0440\u0435\u0441\u0435\u0442\u0430: "+A.h(k))
+A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0448\u0430\u0431\u043b\u043e\u043d\u0430: "+A.h(k))
 f=n.c
-if(f!=null)f.ak(t.q).f.e0(A.ex(null,null,null,B.b8,null,B.a6,null,A.al("\u041e\u0448\u0438\u0431\u043a\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u043f\u0440\u0435\u0441\u0435\u0442\u0430: "+J.b6(k),null,null,null,null,null,null),null,B.bb,null,null,null,null,null,null,null,null,null))
+if(f!=null)f.ak(t.q).f.e0(A.ex(null,null,null,B.b8,null,B.a6,null,A.al("\u041e\u0448\u0438\u0431\u043a\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0448\u0430\u0431\u043b\u043e\u043d\u0430: "+J.b6(k),null,null,null,null,null,null),null,B.bb,null,null,null,null,null,null,null,null,null))
 s=9
 break
 case 6:s=2
@@ -103165,13 +103165,13 @@ r=A.aHA()
 q=A.aP(m,10,m)
 h=g.a(A.W(a).c.h(0,A.aX(h)))
 h.toString
-h=A.al("\u041f\u0440\u0435\u0441\u0435\u0442\u044b \u0434\u0438\u0437\u0430\u0439\u043d\u043e\u0432",m,m,m,h.y,m,m)
+h=A.al("\u0428\u0430\u0431\u043b\u043e\u043d\u044b \u0434\u0438\u0437\u0430\u0439\u043d\u043e\u0432",m,m,m,h.y,m,m)
 g=A.p2(B.w3,m,m,16)
 p=t.D
-g=A.hN(A.a([h,A.Ej(m,m,g,m,m,n.cx?m:n.gIn(),m,m,"\u041e\u0431\u043d\u043e\u0432\u0438\u0442\u044c \u043f\u0440\u0435\u0441\u0435\u0442\u044b")],p),B.aV,B.ig,B.aB)
+g=A.hN(A.a([h,A.Ej(m,m,g,m,m,n.cx?m:n.gIn(),m,m,"\u041e\u0431\u043d\u043e\u0432\u0438\u0442\u044c \u0448\u0430\u0431\u043b\u043e\u043d\u044b")],p),B.aV,B.ig,B.aB)
 h=A.aP(m,10,m)
-if(n.cx)o=A.iI(A.dX(A.a([A.a8H(m),A.aP(m,8,m),A.al("\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u043f\u0440\u0435\u0441\u0435\u0442\u043e\u0432...",m,m,m,A.c1(m,m,m,m,m,m,m,m,m,m,m,12,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)],p),B.aV,B.fz,B.aB),m,m)
-else o=J.w9(n.CW)?A.iI(A.dX(A.a([A.p2(B.ZY,B.bc,m,32),A.aP(m,8,m),A.al("\u041f\u0440\u0435\u0441\u0435\u0442\u044b \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u044b",m,m,m,A.c1(m,m,B.bc,m,m,m,m,m,m,m,m,12,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m),A.aP(m,4,m),A.nJ(A.al("\u041f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u044c",m,m,m,m,m,m),n.gIn(),m)],p),B.aV,B.fz,B.aB),m,m):A.aO8(new A.adj(n),J.bB(n.CW),B.bS)
+if(n.cx)o=A.iI(A.dX(A.a([A.a8H(m),A.aP(m,8,m),A.al("\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u0448\u0430\u0431\u043b\u043e\u043d\u043e\u0432...",m,m,m,A.c1(m,m,m,m,m,m,m,m,m,m,m,12,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m)],p),B.aV,B.fz,B.aB),m,m)
+else o=J.w9(n.CW)?A.iI(A.dX(A.a([A.p2(B.ZY,B.bc,m,32),A.aP(m,8,m),A.al("\u0428\u0430\u0431\u043b\u043e\u043d\u044b \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u044b",m,m,m,A.c1(m,m,B.bc,m,m,m,m,m,m,m,m,12,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m),A.aP(m,4,m),A.nJ(A.al("\u041f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u044c",m,m,m,m,m,m),n.gIn(),m)],p),B.aV,B.fz,B.aB),m,m):A.aO8(new A.adj(n),J.bB(n.CW),B.bS)
 o=A.dt(new A.cd(B.YK,A.dX(A.a([k,j,i,f,s,r,q,g,h,A.xp(o)],p),B.b6,B.am,B.aB),m),B.a4,B.cY,m,l,m,m,250)
 h=n.r
 g=A.xp(new A.cd(B.YN,new A.j9(new A.Cp(n.d,n.e,n.f,n.gaBN(),h),n.w),m))
@@ -103198,7 +103198,7 @@ r=i.a(A.W(a).c.h(0,A.aX(j)))
 r.toString
 f=i.a(A.W(a).c.h(0,A.aX(j)))
 f.toString
-q.push(A.C6(s.e,f.ch,m,!0,r.b,"\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u043f\u0440\u0435\u0441\u0435\u0442",n.ganZ()))
+q.push(A.C6(s.e,f.ch,m,!0,r.b,"\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0448\u0430\u0431\u043b\u043e\u043d",n.ganZ()))
 q.push(A.aP(m,10,m))
 r=i.a(A.W(a).c.h(0,A.aX(j)))
 r.toString
@@ -103262,7 +103262,7 @@ s.CW=A.a([],t.Wa)
 s.cx=!1},
 $S:0}
 A.acq.prototype={
-$1(a){var s,r,q,p=null,o=A.al("\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u043f\u0440\u0435\u0441\u0435\u0442",p,p,p,p,p,p),n=this.b,m=this.a,l=A.IB(p,A.tv(p,new A.et(4,B.cB,B.dv),p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,"\u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440: Kepix logo",p,p,p,p,p,p,p,p,"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043f\u0440\u0435\u0441\u0435\u0442\u0430 *",!0,!0,p,p,p,p,p,p,p,p,p,p,p,p,p),p,p,p,50,1,!1,new A.acl(m),p,new A.acm()),k=A.aP(p,16,p)
+$1(a){var s,r,q,p=null,o=A.al("\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0448\u0430\u0431\u043b\u043e\u043d",p,p,p,p,p,p),n=this.b,m=this.a,l=A.IB(p,A.tv(p,new A.et(4,B.cB,B.dv),p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,"\u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440: Kepix logo",p,p,p,p,p,p,p,p,"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0448\u0430\u0431\u043b\u043e\u043d\u0430 *",!0,!0,p,p,p,p,p,p,p,p,p,p,p,p,p),p,p,p,50,1,!1,new A.acl(m),p,new A.acm()),k=A.aP(p,16,p)
 m=A.IB(p,A.tv(p,new A.et(4,B.cB,B.dv),p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,"\u041b\u043e\u0433\u0442\u0438\u043f Kepix \u0441 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043c\u0438 LEGO",p,p,p,p,p,p,p,p,"\u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 (\u043e\u043f\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e)",!0,!0,p,p,p,p,p,p,p,p,p,p,p,p,p),p,p,p,200,3,!1,new A.acn(m),p,p)
 s=A.aP(p,8,p)
 r=A.dO(4)
@@ -103271,7 +103271,7 @@ r=A.aHZ(A.dX(A.a([l,k,m,s,A.dt(A.al("\u042d\u043b\u0435\u043c\u0435\u043d\u0442\
 return A.BP(A.a([A.nJ(A.al("\u041e\u0442\u043c\u0435\u043d\u0430",p,p,p,p,p,p),new A.aco(a),p),A.oN(A.al("\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c",p,p,p,p,p,p),new A.acp(n,a),p)],q),r,o)},
 $S:79}
 A.acm.prototype={
-$1(a){if(a==null||B.p.dd(a).length===0)return"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043f\u0440\u0435\u0441\u0435\u0442\u0430"
+$1(a){if(a==null||B.p.dd(a).length===0)return"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0448\u0430\u0431\u043b\u043e\u043d\u0430"
 if(B.p.dd(a).length<3)return"\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u043c\u0438\u043d\u0438\u043c\u0443\u043c 3 \u0441\u0438\u043c\u0432\u043e\u043b\u0430"
 return null},
 $S:44}
@@ -103999,7 +103999,7 @@ s===$&&A.b()
 r=A.o(s).i("aC<1>")
 A.U("\u2705 LEGO \u0446\u0432\u0435\u0442\u0430 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u044b: "+new A.aO(new A.aC(s,r),new A.a8x(),r.i("aO<m.E>")).b0(0,", "))
 q.a.f.$0()},
-aye(a){A.U("\ud83c\udfa8 \u041f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c \u043f\u0440\u0435\u0441\u0435\u0442: "+a.b)
+aye(a){A.U("\ud83c\udfa8 \u041f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u043c \u0448\u0430\u0431\u043b\u043e\u043d: "+a.b)
 this.ah(new A.a8r(this,a))
 this.a.f.$0()},
 a3R(){var s,r,q=t.N,p=A.t(q,q),o=this.e
@@ -104095,7 +104095,7 @@ q=A.o(s).i("aC<1>")
 m=q.i("aO<m.E>")
 l=A.B(new A.aO(new A.aC(s,q),new A.a8q(),m),m.i("m.E"))
 if(l.length!==0)j.f=B.m.gai(l)}j=o.f
-A.U("\u2705 \u041f\u0440\u0435\u0441\u0435\u0442 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d: "+j.a+" \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432, "+j.b+" \u0446\u0432\u0435\u0442\u043e\u0432 \u043f\u0440\u0435\u0441\u0435\u0442\u0430 + "+p.a+" \u0430\u0434\u043c\u0438\u043d\u0441\u043a\u0438\u0445 \u0446\u0432\u0435\u0442\u043e\u0432")},
+A.U("\u2705 \u0428\u0430\u0431\u043b\u043e\u043d \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d: "+j.a+" \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432, "+j.b+" \u0446\u0432\u0435\u0442\u043e\u0432 \u0448\u0430\u0431\u043b\u043e\u043d\u0430 + "+p.a+" \u0430\u0434\u043c\u0438\u043d\u0441\u043a\u0438\u0445 \u0446\u0432\u0435\u0442\u043e\u0432")},
 $S:0}
 A.a8p.prototype={
 $2(a,b){return new A.aQ(a,this.a.aj6(b),t.rP)},
@@ -105015,7 +105015,7 @@ zy(a,b,c,d,e,f,g){return this.a4p(a,b,c,d,e,f,g)},
 a4p(a8,a9,b0,b1,b2,b3,b4){var s=0,r=A.H(t.N),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7
 var $async$zy=A.I(function(b5,b6){if(b5===1){o.push(b6)
 s=p}while(true)switch(s){case 0:p=4
-A.U("\ud83d\udcbe \u0421\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u043c \u043f\u0440\u0435\u0441\u0435\u0442: "+b2)
+A.U("\ud83d\udcbe \u0421\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u043c \u0448\u0430\u0431\u043b\u043e\u043d: "+b2)
 m=A.a([],t.H7)
 for(l=0,c=t.N,b=t.z;l<a9;++l)for(k=0;k<b0;++k)if(l<b3.length&&k<J.bB(b3[l])){j=J.k(b3[l],k)
 if(!J.d(j,"empty"))J.jm(m,A.a7(["row",l,"col",k,"color",j],c,b))}i=J.bB(m)
@@ -105033,11 +105033,11 @@ a4=$.ln()
 a5=a4.ii()
 a4=a4.ii()
 f=A.a7(["name",b,"description",a,"emblem_data",a2,"lego_colors",b1,"statistics",a3,"created_at",new A.eH(a5,a5),"updated_at",new A.eH(a4,a4),"is_public",!0,"tags",b4,"version",1],c,a1)
-A.U("\ud83d\udcca \u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u043f\u0440\u0435\u0441\u0435\u0442\u0430: "+A.h(i)+" \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432, "+h.a+" \u0446\u0432\u0435\u0442\u043e\u0432")
+A.U("\ud83d\udcca \u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0448\u0430\u0431\u043b\u043e\u043d\u0430: "+A.h(i)+" \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432, "+h.a+" \u0446\u0432\u0435\u0442\u043e\u0432")
 s=7
 return A.D(n.a.fP("presets").D(0,f),$async$zy)
 case 7:e=b6
-A.U("\u2705 \u041f\u0440\u0435\u0441\u0435\u0442 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d \u0441 ID: "+B.m.gan(e.a.b.a))
+A.U("\u2705 \u0428\u0430\u0431\u043b\u043e\u043d \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d \u0441 ID: "+B.m.gan(e.a.b.a))
 c=B.m.gan(e.a.b.a)
 q=c
 s=1
@@ -105048,8 +105048,8 @@ break
 case 4:p=3
 a7=o.pop()
 d=A.a0(a7)
-A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u043f\u0440\u0435\u0441\u0435\u0442\u0430: "+A.h(d))
-c=A.bC("\u041e\u0448\u0438\u0431\u043a\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u043f\u0440\u0435\u0441\u0435\u0442\u0430: "+A.h(d))
+A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0448\u0430\u0431\u043b\u043e\u043d\u0430: "+A.h(d))
+c=A.bC("\u041e\u0448\u0438\u0431\u043a\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0448\u0430\u0431\u043b\u043e\u043d\u0430: "+A.h(d))
 throw A.e(c)
 s=6
 break
@@ -105064,7 +105064,7 @@ ayf(a){var s=0,r=A.H(t._G),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c
 var $async$Ea=A.I(function(b,a0){if(b===1){o.push(a0)
 s=p}while(true)switch(s){case 0:d=!0
 p=4
-A.U("\ud83d\udcc2 \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c \u043f\u0440\u0435\u0441\u0435\u0442\u044b (\u043b\u0438\u043c\u0438\u0442: "+a+", \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0443\u0431\u043b\u0438\u0447\u043d\u044b\u0435: "+A.h(d)+")")
+A.U("\ud83d\udcc2 \u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c \u0448\u0430\u0431\u043b\u043e\u043d\u044b (\u043b\u0438\u043c\u0438\u0442: "+a+", \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0443\u0431\u043b\u0438\u0447\u043d\u044b\u0435: "+A.h(d)+")")
 i=n.a.fP("presets")
 h=A.ca(i.gm6().b.h(0,"orderBy"),!0,t.j)
 g=A.a("created_at".split("."),t.s)
@@ -105079,7 +105079,7 @@ i=l.gLs()
 g=A.a6(i).i("X<1,pP>")
 f=A.B(new A.X(i,new A.anq(),g),g.i("a9.E"))
 k=f
-A.U("\u2705 \u0417\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043e \u043f\u0440\u0435\u0441\u0435\u0442\u043e\u0432: "+J.bB(k))
+A.U("\u2705 \u0417\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043e \u0448\u0430\u0431\u043b\u043e\u043d\u043e\u0432: "+J.bB(k))
 q=k
 s=1
 break
@@ -105089,8 +105089,8 @@ break
 case 4:p=3
 c=o.pop()
 j=A.a0(c)
-A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u043f\u0440\u0435\u0441\u0435\u0442\u043e\u0432: "+A.h(j))
-i=A.bC("\u041e\u0448\u0438\u0431\u043a\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u043f\u0440\u0435\u0441\u0435\u0442\u043e\u0432: "+A.h(j))
+A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0448\u0430\u0431\u043b\u043e\u043d\u043e\u0432: "+A.h(j))
+i=A.bC("\u041e\u0448\u0438\u0431\u043a\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0448\u0430\u0431\u043b\u043e\u043d\u043e\u0432: "+A.h(j))
 throw A.e(i)
 s=6
 break
@@ -105113,14 +105113,14 @@ l=A.b4V(l)
 l.toString
 s=6
 return A.D(k.bZ(l),$async$DU)
-case 6:A.U("\ud83d\udcc8 \u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u0440\u0435\u0441\u0435\u0442\u0430: "+a)
+case 6:A.U("\ud83d\udcc8 \u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0448\u0430\u0431\u043b\u043e\u043d\u0430: "+a)
 q=1
 s=5
 break
 case 3:q=2
 i=p.pop()
 m=A.a0(i)
-A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0438 \u043f\u0440\u0435\u0441\u0435\u0442\u0430: "+A.h(m))
+A.U("\u274c \u041e\u0448\u0438\u0431\u043a\u0430 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0438 \u0448\u0430\u0431\u043b\u043e\u043d\u0430: "+A.h(m))
 s=5
 break
 case 2:s=1
