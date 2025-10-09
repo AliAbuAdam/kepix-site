@@ -105170,7 +105170,7 @@ case 1:return A.G(q,r)}})
 return A.H($async$wA,r)},
 V(a){var s,r,q,p,o,n=this,m=null,l=A.ks(A.aus("assets/images/svg/logo.svg",80),m,m),k=t.z3,j=t.Ge,i=j.a(A.S(a).c.h(0,A.aZ(k)))
 i.toString
-i=A.aA("\u0410\u0434\u043c\u0438\u043d \u043f\u0430\u043d\u0435\u043b\u044c",m,m,m,i.b.a_X(B.cL,28,B.bf),B.hg,m)
+i=A.aA("\u0412\u0445\u043e\u0434 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u0430",m,m,m,i.b.a_X(B.cL,28,B.bf),B.hg,m)
 k=j.a(A.S(a).c.h(0,A.aZ(k)))
 k.toString
 k=A.aA("\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430\u043c\u0438 \u043a\u0435\u043f\u043e\u043a",m,m,m,k.e.bZ(B.cx),B.hg,m)
