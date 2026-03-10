@@ -111023,9 +111023,9 @@ B.St.prototype={
 O(a){var s=this,r=null,q=s.e,p=s.f,o=s.r
 return B.ath(r,A.E,B.eh(B.b([new B.V2(s.x,s.y,s.z,s.Q,s.as,r),B.f7(new B.c3(A.ZV,new B.iP(new B.xE(q,p,o,s.w,s.c),s.d),r),1),new B.Y8(s.at,s.ax,s.ay,s.ch,s.CW,s.cx,s.cy,s.db,s.dx,s.dy,s.fr,q,p,o,s.fx,s.fy,s.go,s.id,s.k1,s.k2,s.k3,s.k4,s.ok,s.p1,r)],t.D),A.as,A.a9,A.ak,0))}}
 B.V2.prototype={
-O(a){var s=this,r=null,q=B.aws("assets/images/svg/logo.svg",r),p=t.z3,o=t.Ge,n=o.a(B.U(a).c.h(0,B.b_(p)))
+O(a){var s=this,r=null,q=B.i7(r,B.aws("assets/images/svg/logo.svg",r),A.aS,!1,r,r,r,r,r,r,r,s.r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),p=t.z3,o=t.Ge,n=o.a(B.U(a).c.h(0,B.b_(p)))
 n.toString
-n=B.i7(r,B.aV("\u0421\u043e\u0431\u0435\u0440\u0438 \u0441\u0432\u043e\u0439 \u044d\u043a\u0441\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0439 \u0434\u0438\u0437\u0430\u0439\u043d LEGO \u043a\u0435\u043f\u043a\u0438",r,r,r,n.w,r,r),A.aS,!1,r,r,r,r,r,r,r,s.r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)
+n=B.aV("\u0421\u043e\u0431\u0435\u0440\u0438 \u0441\u0432\u043e\u0439 \u044d\u043a\u0441\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0439 \u0434\u0438\u0437\u0430\u0439\u043d LEGO \u043a\u0435\u043f\u043a\u0438",r,r,r,n.w,r,r)
 p=o.a(B.U(a).c.h(0,B.b_(p)))
 p.toString
 p=B.aV("\u0428\u0430\u0431\u043b\u043e\u043d\u044b \u0434\u0438\u0437\u0430\u0439\u043d\u043e\u0432",r,r,r,p.y,r,r)
